@@ -1,0 +1,13 @@
+D:\wyf\WpfWall815\WpfWall815\bin\Debug\WpfWall815.dll
+D:\wyf\WpfWall815\WpfWall815\bin\Debug\WpfWall815.pdb
+D:\wyf\WpfWall815\WpfWall815\obj\Debug\WpfWall815.csproj.AssemblyReference.cache
+D:\wyf\WpfWall815\WpfWall815\obj\Debug\MainWindow.g.cs
+D:\wyf\WpfWall815\WpfWall815\obj\Debug\WpfWall815_MarkupCompile.cache
+D:\wyf\WpfWall815\WpfWall815\obj\Debug\WpfWall815_MarkupCompile.lref
+D:\wyf\WpfWall815\WpfWall815\obj\Debug\MainWindow.baml
+D:\wyf\WpfWall815\WpfWall815\obj\Debug\WpfWall815.g.resources
+D:\wyf\WpfWall815\WpfWall815\obj\Debug\WpfWall815.Properties.Resources.resources
+D:\wyf\WpfWall815\WpfWall815\obj\Debug\WpfWall815.csproj.GenerateResource.cache
+D:\wyf\WpfWall815\WpfWall815\obj\Debug\WpfWall815.csproj.CoreCompileInputs.cache
+D:\wyf\WpfWall815\WpfWall815\obj\Debug\WpfWall815.dll
+D:\wyf\WpfWall815\WpfWall815\obj\Debug\WpfWall815.pdb
